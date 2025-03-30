@@ -1,0 +1,21 @@
+Bidirectional RNN
+
+simple rnn 
+LSTM, GRU VARIANTS OF RNN
+
+
+Bidirectional rnn/lstm rnn
+
+one to many rnn
+
+
+
+many to many rnn
+
+
+one to one rnn
+
+main purpose :: for a specific word prediction, the model must have the context of previous words
+and the next upcoming words..
+
+for fill in the blanks type of context
